@@ -10,7 +10,7 @@ def GenerarDatosClimaticos(CantidadDias=60):
         print("Cantidad invalida. Debe estar entre 60 y 90 dias")
         return None
 
-    PURA MRD ESTE CODE
+  
 
     # Estados climaticos
     # 0 = Nublado
